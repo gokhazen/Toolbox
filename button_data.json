@@ -1,0 +1,17 @@
+{
+  "dosya_indirme": [
+    {"url": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-623tr.exe", "text": "Winrar"},
+    {"url": "https://www.example.com/dosya1.exe", "text": "Dosya 1"},
+    {"url": "https://www.example.com/dosya2.exe", "text": "Dosya 2"}
+  ],
+  "linkler": [
+    {"url": "https://github.com/gokhazen", "text": "Github gokhazen"},
+    {"url": "https://www.example.com/link1", "text": "Link 1"},
+    {"url": "https://www.example.com/link2", "text": "Link 2"}
+  ],
+  "uygulamalar": [
+    {"url": "https://www.example.com/uygulama1", "text": "Uygulama 1"},
+    {"url": "https://www.example.com/uygulama2", "text": "Uygulama 2"},
+    {"url": "https://www.example.com/uygulama3", "text": "Uygulama 3"}
+  ]
+}
